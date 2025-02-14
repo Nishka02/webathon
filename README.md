@@ -1,6 +1,5 @@
 # webathon - Online Learning Hub
 
-# Webathon Project
 
 ## Overview
 
